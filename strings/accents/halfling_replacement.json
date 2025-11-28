@@ -11,7 +11,7 @@
 		"blood": "jam",
 		"bleeding": "spilling jam",
 		"asshole": "gravyboat",
-		"ass": "donkey",
+		"ass ": "donkey ",
 		"idiot": "dummy",
 		"damn": "darn",
 		"pussy": "scaredy-cat",
@@ -39,7 +39,17 @@
 		"go fuck yourself": "go suck a lemon",
 		"cocksucking": "codkissing",
 		"kill yourself": "keep yourself safe",
-		"kill": "kiss"
+		"kill": "kiss",
+		"wolf": "dog",
+		"volf": "dog",
+		"werewolf": "puppydog",
+		"werevolf": "puppydog",
+		"verevolf": "puppydog",
+		"verewolf": "puppydog",
+		"manwolf": "man-dog",
+		"manvolf": "man-dog",
+		"man-volf": "man-dog",
+		"man-wolf": "man-dog"
 		}
 
 }
