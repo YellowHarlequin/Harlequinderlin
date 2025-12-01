@@ -1,10 +1,8 @@
 	/*==============*
 	*				*
-	*	  Dwarf		*
+	*	  Kobold	*
 	*				*
 	*===============*/
-
-//	( + Poison Resistance )
 
 /mob/living/carbon/human/species/kobold
 	race = /datum/species/kobold
@@ -37,7 +35,7 @@
 
 	changesource_flags = WABBAJACK
 
-	native_language = "Wyrmish"
+	native_language = "Gutter"
 
 	limbs_icon_m = 'icons/roguetown/mob/bodies/f/kobold.dmi'
 	limbs_icon_f = 'icons/roguetown/mob/bodies/f/kobold.dmi'
@@ -105,14 +103,11 @@
 	..()
 	RegisterSignal(C, COMSIG_MOB_SAY, PROC_REF(handle_speech))
 	C.grant_language(/datum/language/common)
-	C.grant_language(/datum/language/wyrmish)
-	to_chat(C, "<span class='info'>I can speak Wyrmish with ,x before my speech.</span>")
 
 /datum/species/kobold/on_species_loss(mob/living/carbon/C)
 	. = ..()
 	UnregisterSignal(C, COMSIG_MOB_SAY)
 	C.remove_language(/datum/language/common)
-	C.remove_language(/datum/language/wyrmish)
 
 /datum/species/kobold/check_roundstart_eligible()
 	return TRUE
@@ -120,7 +115,6 @@
 /datum/species/kobold/after_creation(mob/living/carbon/C)
 	..()
 	C.dna.species.accent_language = C.dna.species.get_accent(native_language, 1)
-	C.grant_language(/datum/language/wyrmish)
 
 /datum/species/kobold/get_skin_list()
 	return sortList(list(

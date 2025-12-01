@@ -1,16 +1,21 @@
 {
-
     "kobold": {
         "kobold": "kin",
         "whatever": "no-care",
         "deadite": "rot-thing",
         "yes ": "yes-yes ",
         "no ": "no-no ",
-        "a ": "",
-        "is ": "",
-        "happening": "happen-has",
+        "a ": "-SKRAW- ",
+        " is ": " -SKRIT- ",
+        "happen": "happens",
+        "name": "names",
+        "naming": "namesing",
         "choose": "pick-choose",
-        "chose": "picked-chose",
+        "quick": "hurry-fast",
+        "noise": "sound-noise",
+        "sound": "noise-sound",
+        "house": "burrow",
+        "home": "burrow",
         "die": "kill-die",
         "rock": [
             "treasure",
@@ -25,6 +30,8 @@
         "axe": "chopping-thing",
         "spear": "stabbing-thing",
         "mace": "bashing-thing",
+        "dagger": "short-stab",
+        "knife": "short-stab",
         "fingers": "claws",
         "pick ": "digging-thing",
         "pickaxe": "digging-thing",
@@ -43,11 +50,18 @@
         "hollow-kin": "beast-thing",
         "harpy": "bird-thing",
         "medicator": "sick-thing",
-        "aasimar": "tasty-thing"
-
-
-
-		}
-
-
+        "aasimar": "tasty-thing",
+        "king": "great wyrm",
+        "your majesty": "great wyrm",
+        "steward": "hoarding-beast",
+        "mage": "eater-of-many-rocks",
+        "wizard": "eater-of-many-rocks",
+        "inquisition": "men-snatchers",
+        "inquisitor": "men-snatcher",
+        "volf": "fur-beast",
+        "volves": "fur-beasts",
+        "vampire": "blood-eater",
+        "werevolf": "big-fur",
+        "werevolves": "big-furs"
+    }
 }

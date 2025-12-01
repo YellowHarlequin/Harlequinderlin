@@ -100,7 +100,7 @@
 	..()
 	C.dna.species.accent_language = C.dna.species.get_accent(native_language, 1)
 	C.grant_language(/datum/language/halfling)
-	to_chat(C, "<span class='info'>I can speak Halfling with ,p before my speech.</span>")
+	to_chat(C, span_info("I can speak Halfspeak with ,p before my speech."))
 
 /datum/species/halfling/get_skin_list()
 	return sortList(list(

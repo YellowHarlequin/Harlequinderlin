@@ -12,7 +12,7 @@
 	additional_syllable_low = -2
 	additional_syllable_high = 1
 	default_priority = 100
-	icon_state = "beastial"
+	icon_state = "halfspeak"
 	spans = list(SPAN_DWARF)
 	syllables = list("Hoo",
 "Haa",
