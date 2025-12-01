@@ -1,8 +1,8 @@
 /datum/language/wyrmish
 	name = "Wyrmish"
 	desc = ""
-	speech_verb = "snarls"
-	ask_verb = "skitters"
+	speech_verb = "squeaks"
+	ask_verb = "snurks"
 	exclaim_verb = "shrieks"
 	key = "x"
 	space_chance = 15
