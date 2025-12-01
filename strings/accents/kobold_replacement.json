@@ -1,0 +1,54 @@
+{
+
+    "kobold": {
+        "kobold": "kin",
+        "whatever": "no-care",
+        "deadite": "rot-thing",
+        "yes ": "yes-yes ",
+        "no ": "no-no ",
+        "a ": "",
+        "is ": "",
+        "happening": "happen-has",
+        "choose": "pick-choose",
+        "chose": "picked-chose",
+        "die": "kill-die",
+        "rock": [
+            "treasure",
+            "precious-thing",
+            "crunchie",
+            "tastie",
+            "good-stone",
+            "rock-thing",
+            "tribute"
+        ],
+        "sword": "slashing-thing",
+        "axe": "chopping-thing",
+        "spear": "stabbing-thing",
+        "mace": "bashing-thing",
+        "fingers": "claws",
+        "pick ": "digging-thing",
+        "pickaxe": "digging-thing",
+        "rous": "rat-thing",
+        "horc": "green-thing",
+        "orc": "green-thing",
+        "goblin": "green-thing",
+        "dwarf": "brawny-thing",
+        "dwarves": "brawny-things",
+        "elf": "tall-thing",
+        "elves": "tall-things",
+        "halfling": "jolly-thing",
+        "drow": "scary-thing",
+        "triton": "fishy-thing",
+        "rakshari": "furless-thing",
+        "hollow-kin": "beast-thing",
+        "harpy": "bird-thing",
+        "medicator": "sick-thing",
+        "aasimar": "tasty-thing",
+        "dragon": "wyrm"
+
+
+
+		}
+
+
+}

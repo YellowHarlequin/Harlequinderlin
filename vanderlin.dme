@@ -2794,6 +2794,7 @@
 #include "code\modules\language\sandspeak.dm"
 #include "code\modules\language\thieves_cant.dm"
 #include "code\modules\language\undead.dm"
+#include "code\modules\language\wyrm.dm"
 #include "code\modules\language\zalad.dm"
 #include "code\modules\library\lib_items.dm"
 #include "code\modules\library\lib_machines.dm"
