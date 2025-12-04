@@ -42,8 +42,8 @@
 
 	enflamed_icon = "widefire"
 
-	soundpack_m = /datum/voicepack/other/kobold
-	soundpack_f = /datum/voicepack/other/kobold
+	soundpack_m = /datum/voicepack/male/kobold
+	soundpack_f = /datum/voicepack/male/kobold
 
 	exotic_bloodtype = /datum/blood_type/human/kobold
 

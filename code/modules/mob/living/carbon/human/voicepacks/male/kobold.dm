@@ -1,4 +1,4 @@
-/datum/voicepack/other/kobold/get_sound(soundin, modifiers)
+/datum/voicepack/male/kobold/get_sound(soundin, modifiers)
 	var/used
 	switch(modifiers)
 		if("old")
